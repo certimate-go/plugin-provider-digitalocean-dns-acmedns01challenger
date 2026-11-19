@@ -1,0 +1,4 @@
+{
+  "plugin.digitalocean-dns.name": "DigitalOcean",
+  "plugin.digitalocean-dns.description": "ACME DNS-01 via DigitalOcean."
+}
